@@ -1,0 +1,2698 @@
+{
+    "data": [
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "BIOCELL",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": null,
+            "Year": {
+                "2010": {
+                    "Revenue": 3576177.25,
+                    "Units": 4913.6396484375,
+                    "Average Selling Price per Unit": 727.8061693305485
+                },
+                "2011": {
+                    "Revenue": 3579436.5,
+                    "Units": 5315.97998046875,
+                    "Average Selling Price per Unit": 673.335210657504
+                },
+                "2012": {
+                    "Revenue": 3082547.75,
+                    "Units": 4872.56201171875,
+                    "Average Selling Price per Unit": 632.6338674779965
+                },
+                "2013": {
+                    "Revenue": 1838850.5,
+                    "Units": 2928.0986328125,
+                    "Average Selling Price per Unit": 628.0015568443285
+                },
+                "2014": {
+                    "Revenue": 2102214,
+                    "Units": 3219.483642578125,
+                    "Average Selling Price per Unit": 652.9661999824827
+                },
+                "2015": {
+                    "Revenue": 1342285.625,
+                    "Units": 2099.49951171875,
+                    "Average Selling Price per Unit": 639.3360024652453
+                },
+                "2016": {
+                    "Revenue": 1578235.25,
+                    "Units": 2404.780517578125,
+                    "Average Selling Price per Unit": 656.2907668552863
+                },
+                "2017": {
+                    "Revenue": 908888.5,
+                    "Units": 1484.1256103515625,
+                    "Average Selling Price per Unit": 612.4067219517226
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "NATRELLE",
+            "Catheter": null,
+            "Diameter": "15.6",
+            "Length": "5.8",
+            "Year": {
+                "2010": {
+                    "Revenue": 64813.46875,
+                    "Units": 86.19308471679688,
+                    "Average Selling Price per Unit": 751.9567139632662
+                },
+                "2011": {
+                    "Revenue": 8789.873046875,
+                    "Units": 10.98734188079834,
+                    "Average Selling Price per Unit": 799.9999583371778
+                },
+                "2012": {
+                    "Revenue": 8092.7470703125,
+                    "Units": 10.648351669311523,
+                    "Average Selling Price per Unit": 759.9999813713649
+                },
+                "2013": {
+                    "Revenue": 5672.1953125,
+                    "Units": 7.878048896789551,
+                    "Average Selling Price per Unit": 720.0000135581189
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "NATRELLE Style 68",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": null,
+            "Year": {
+                "2010": {
+                    "Revenue": 6888025.5,
+                    "Units": 15133.615234375,
+                    "Average Selling Price per Unit": 455.1473916393955
+                },
+                "2011": {
+                    "Revenue": 7646549.5,
+                    "Units": 17159.34375,
+                    "Average Selling Price per Unit": 445.6201595704964
+                },
+                "2012": {
+                    "Revenue": 7302194,
+                    "Units": 17288.080078125,
+                    "Average Selling Price per Unit": 422.38316614692405
+                },
+                "2013": {
+                    "Revenue": 5625287.5,
+                    "Units": 13584.46875,
+                    "Average Selling Price per Unit": 414.0969811572499
+                },
+                "2014": {
+                    "Revenue": 4581125,
+                    "Units": 12286.01953125,
+                    "Average Selling Price per Unit": 372.873003200729
+                },
+                "2015": {
+                    "Revenue": 3959953.75,
+                    "Units": 11220.921875,
+                    "Average Selling Price per Unit": 352.90805818929203
+                },
+                "2016": {
+                    "Revenue": 4009796.25,
+                    "Units": 11076.0390625,
+                    "Average Selling Price per Unit": 362.02438682036745
+                },
+                "2017": {
+                    "Revenue": 3266350,
+                    "Units": 9190.7099609375,
+                    "Average Selling Price per Unit": 355.39691861485045
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.0 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 30266.51953125,
+                    "Units": 40.35536193847656,
+                    "Average Selling Price per Unit": 749.9999523580677
+                },
+                "2011": {
+                    "Revenue": 26688.47265625,
+                    "Units": 45.360984802246094,
+                    "Average Selling Price per Unit": 588.3574347558806
+                },
+                "2013": {
+                    "Revenue": 11861.7001953125,
+                    "Units": 23.101015090942383,
+                    "Average Selling Price per Unit": 513.4709513247028
+                },
+                "2014": {
+                    "Revenue": 14298.83984375,
+                    "Units": 28.504417419433594,
+                    "Average Selling Price per Unit": 501.635926577521
+                },
+                "2015": {
+                    "Revenue": 8649.2001953125,
+                    "Units": 18.832183837890625,
+                    "Average Selling Price per Unit": 459.2775999727756
+                },
+                "2016": {
+                    "Revenue": 7211.0322265625,
+                    "Units": 14.669841766357422,
+                    "Average Selling Price per Unit": 491.5548743749693
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.1 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 55363.8671875,
+                    "Units": 79.74015808105469,
+                    "Average Selling Price per Unit": 694.3034541168511
+                },
+                "2013": {
+                    "Revenue": 16484.154296875,
+                    "Units": 30.082521438598633,
+                    "Average Selling Price per Unit": 547.9645158907564
+                },
+                "2014": {
+                    "Revenue": 17900.13671875,
+                    "Units": 27.7862548828125,
+                    "Average Selling Price per Unit": 644.208325096101
+                },
+                "2015": {
+                    "Revenue": 14335.3515625,
+                    "Units": 30.787384033203125,
+                    "Average Selling Price per Unit": 465.62421630365935
+                },
+                "2017": {
+                    "Revenue": 1444.6280517578125,
+                    "Units": 3.0413222312927246,
+                    "Average Selling Price per Unit": 474.9999973346357
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.3 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 47692.6171875,
+                    "Units": 63.59015655517578,
+                    "Average Selling Price per Unit": 749.9999964006719
+                },
+                "2011": {
+                    "Revenue": 11295.212890625,
+                    "Units": 14.574467658996582,
+                    "Average Selling Price per Unit": 775.0000312122994
+                },
+                "2012": {
+                    "Revenue": 24488.58203125,
+                    "Units": 37.19000244140625,
+                    "Average Selling Price per Unit": 658.4721813297097
+                },
+                "2013": {
+                    "Revenue": 13554.978515625,
+                    "Units": 22.92386245727539,
+                    "Average Selling Price per Unit": 591.3043031421187
+                },
+                "2014": {
+                    "Revenue": 12493.982421875,
+                    "Units": 25.06659507751465,
+                    "Average Selling Price per Unit": 498.4315733046013
+                },
+                "2015": {
+                    "Revenue": 13497.04296875,
+                    "Units": 27.06900405883789,
+                    "Average Selling Price per Unit": 498.6161640602837
+                },
+                "2016": {
+                    "Revenue": 14098.09765625,
+                    "Units": 29.168926239013672,
+                    "Average Selling Price per Unit": 483.3259044480589
+                },
+                "2017": {
+                    "Revenue": 9071.228515625,
+                    "Units": 19.097322463989258,
+                    "Average Selling Price per Unit": 475.00001807740864
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.4 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 23405.8515625,
+                    "Units": 31.207801818847656,
+                    "Average Selling Price per Unit": 750.0000063562394
+                },
+                "2011": {
+                    "Revenue": 20678.34765625,
+                    "Units": 34.32843780517578,
+                    "Average Selling Price per Unit": 602.3678611186983
+                },
+                "2012": {
+                    "Revenue": 17331.3046875,
+                    "Units": 28.24152374267578,
+                    "Average Selling Price per Unit": 613.6816428679681
+                },
+                "2013": {
+                    "Revenue": 11335.611328125,
+                    "Units": 19.420103073120117,
+                    "Average Selling Price per Unit": 583.7050032867705
+                },
+                "2014": {
+                    "Revenue": 20422.83203125,
+                    "Units": 32.16566467285156,
+                    "Average Selling Price per Unit": 634.9264732740704
+                },
+                "2015": {
+                    "Revenue": 11019.9189453125,
+                    "Units": 22.114755630493164,
+                    "Average Selling Price per Unit": 498.30615944575794
+                },
+                "2016": {
+                    "Revenue": 14801.4111328125,
+                    "Units": 28.837352752685547,
+                    "Average Selling Price per Unit": 513.2721876294308
+                },
+                "2017": {
+                    "Revenue": 16367.44921875,
+                    "Units": 32.084163665771484,
+                    "Average Selling Price per Unit": 510.1410586622637
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.5 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 14075.3427734375,
+                    "Units": 18.76712417602539,
+                    "Average Selling Price per Unit": 749.9999808931012
+                },
+                "2011": {
+                    "Revenue": 22840.15625,
+                    "Units": 29.96772575378418,
+                    "Average Selling Price per Unit": 762.158478012495
+                },
+                "2012": {
+                    "Revenue": 33379.32421875,
+                    "Units": 55.78911590576172,
+                    "Average Selling Price per Unit": 598.3124786407072
+                },
+                "2013": {
+                    "Revenue": 30157.095703125,
+                    "Units": 49.04348373413086,
+                    "Average Selling Price per Unit": 614.905251564292
+                },
+                "2014": {
+                    "Revenue": 17695.3359375,
+                    "Units": 34.557945251464844,
+                    "Average Selling Price per Unit": 512.048265854288
+                },
+                "2015": {
+                    "Revenue": 43657.6875,
+                    "Units": 79.68869018554688,
+                    "Average Selling Price per Unit": 547.8529939235742
+                },
+                "2016": {
+                    "Revenue": 20092.06640625,
+                    "Units": 39.82939910888672,
+                    "Average Selling Price per Unit": 504.45316413942754
+                },
+                "2017": {
+                    "Revenue": 28958.6484375,
+                    "Units": 57.26655960083008,
+                    "Average Selling Price per Unit": 505.6816515494017
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.6 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 36013.7265625,
+                    "Units": 48.01830291748047,
+                    "Average Selling Price per Unit": 749.9999869714189
+                },
+                "2011": {
+                    "Revenue": 25786.5234375,
+                    "Units": 37.127052307128906,
+                    "Average Selling Price per Unit": 694.5480945857
+                },
+                "2012": {
+                    "Revenue": 66036.6875,
+                    "Units": 127.18003845214844,
+                    "Average Selling Price per Unit": 519.2378324751517
+                },
+                "2013": {
+                    "Revenue": 35456.109375,
+                    "Units": 60.69090270996094,
+                    "Average Selling Price per Unit": 584.2079750311696
+                },
+                "2014": {
+                    "Revenue": 16901.765625,
+                    "Units": 33.80654525756836,
+                    "Average Selling Price per Unit": 499.9554227214672
+                },
+                "2015": {
+                    "Revenue": 51326.53125,
+                    "Units": 89.76985168457031,
+                    "Average Selling Price per Unit": 571.7568903906525
+                },
+                "2016": {
+                    "Revenue": 36530.83203125,
+                    "Units": 69.70858764648438,
+                    "Average Selling Price per Unit": 524.0506695747459
+                },
+                "2017": {
+                    "Revenue": 15090.22265625,
+                    "Units": 30.33251190185547,
+                    "Average Selling Price per Unit": 497.49333998701627
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.7 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 77685.8203125,
+                    "Units": 124.90209197998047,
+                    "Average Selling Price per Unit": 621.9737322330168
+                },
+                "2011": {
+                    "Revenue": 41334.21875,
+                    "Units": 61.47895050048828,
+                    "Average Selling Price per Unit": 672.3312355449482
+                },
+                "2012": {
+                    "Revenue": 108842.8359375,
+                    "Units": 189.23272705078125,
+                    "Average Selling Price per Unit": 575.1797674420854
+                },
+                "2013": {
+                    "Revenue": 48042.890625,
+                    "Units": 84.6146240234375,
+                    "Average Selling Price per Unit": 567.7847201884694
+                },
+                "2014": {
+                    "Revenue": 42343.6171875,
+                    "Units": 83.3588638305664,
+                    "Average Selling Price per Unit": 507.9677822093018
+                },
+                "2015": {
+                    "Revenue": 84719.9921875,
+                    "Units": 156.03427124023438,
+                    "Average Selling Price per Unit": 542.9575920347839
+                },
+                "2016": {
+                    "Revenue": 48399.9375,
+                    "Units": 98.56486511230469,
+                    "Average Selling Price per Unit": 491.04655543182827
+                },
+                "2017": {
+                    "Revenue": 37736.5,
+                    "Units": 77.40535736083984,
+                    "Average Selling Price per Unit": 487.5179352778401
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.8 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 14251.10546875,
+                    "Units": 20.240291595458984,
+                    "Average Selling Price per Unit": 704.0958575886975
+                },
+                "2011": {
+                    "Revenue": 32776.0859375,
+                    "Units": 47.645111083984375,
+                    "Average Selling Price per Unit": 687.9212828305797
+                },
+                "2012": {
+                    "Revenue": 46482.59765625,
+                    "Units": 83.2574462890625,
+                    "Average Selling Price per Unit": 558.2995843382768
+                },
+                "2013": {
+                    "Revenue": 32346.60546875,
+                    "Units": 56.69685363769531,
+                    "Average Selling Price per Unit": 570.518527808466
+                },
+                "2014": {
+                    "Revenue": 11804.1201171875,
+                    "Units": 21.889110565185547,
+                    "Average Selling Price per Unit": 539.2690617572126
+                },
+                "2015": {
+                    "Revenue": 35299.2421875,
+                    "Units": 67.71761322021484,
+                    "Average Selling Price per Unit": 521.2712100869288
+                },
+                "2016": {
+                    "Revenue": 36722.109375,
+                    "Units": 71.5790023803711,
+                    "Average Selling Price per Unit": 513.0290749214214
+                },
+                "2017": {
+                    "Revenue": 21342.1328125,
+                    "Units": 48.188323974609375,
+                    "Average Selling Price per Unit": 442.89012466474776
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.9 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 4105.93212890625,
+                    "Units": 5.474576473236084,
+                    "Average Selling Price per Unit": 749.9999587144661
+                },
+                "2011": {
+                    "Revenue": 29390.40234375,
+                    "Units": 50.80684280395508,
+                    "Average Selling Price per Unit": 578.4733063842749
+                },
+                "2012": {
+                    "Revenue": 27568.53515625,
+                    "Units": 49.206119537353516,
+                    "Average Selling Price per Unit": 560.2663940065845
+                },
+                "2013": {
+                    "Revenue": 38610.2890625,
+                    "Units": 76.64012145996094,
+                    "Average Selling Price per Unit": 503.78689812843203
+                },
+                "2014": {
+                    "Revenue": 1433.59375,
+                    "Units": 2.8671875,
+                    "Average Selling Price per Unit": 500
+                },
+                "2015": {
+                    "Revenue": 45501.80078125,
+                    "Units": 81.73046112060547,
+                    "Average Selling Price per Unit": 556.7300142122692
+                },
+                "2016": {
+                    "Revenue": 48273.1796875,
+                    "Units": 85.83900451660156,
+                    "Average Selling Price per Unit": 562.3688200876537
+                },
+                "2017": {
+                    "Revenue": 32250,
+                    "Units": 77.00238037109375,
+                    "Average Selling Price per Unit": 418.81822152223316
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.0 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 22890.96875,
+                    "Units": 30.521289825439453,
+                    "Average Selling Price per Unit": 750.0000452444972
+                },
+                "2011": {
+                    "Revenue": 4383.5712890625,
+                    "Units": 9.228571891784668,
+                    "Average Selling Price per Unit": 474.9999610410775
+                },
+                "2012": {
+                    "Revenue": 26943.240234375,
+                    "Units": 43.04729461669922,
+                    "Average Selling Price per Unit": 625.8985721235774
+                },
+                "2013": {
+                    "Revenue": 22586.296875,
+                    "Units": 45.07122802734375,
+                    "Average Selling Price per Unit": 501.1245058887097
+                },
+                "2014": {
+                    "Revenue": 22462.931640625,
+                    "Units": 45.85026931762695,
+                    "Average Selling Price per Unit": 489.9192954574253
+                },
+                "2015": {
+                    "Revenue": 36764.9375,
+                    "Units": 74.8959732055664,
+                    "Average Selling Price per Unit": 490.88002901159393
+                },
+                "2016": {
+                    "Revenue": 45680.7421875,
+                    "Units": 91.7021255493164,
+                    "Average Selling Price per Unit": 498.14267568894456
+                },
+                "2017": {
+                    "Revenue": 1468.9075927734375,
+                    "Units": 3.0924370288848877,
+                    "Average Selling Price per Unit": 475.0000013106543
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.1 cm",
+            "Year": {
+                "2011": {
+                    "Revenue": 13612.1796875,
+                    "Units": 17.564102172851562,
+                    "Average Selling Price per Unit": 775.0000286687036
+                },
+                "2012": {
+                    "Revenue": 22949.55078125,
+                    "Units": 43.210601806640625,
+                    "Average Selling Price per Unit": 531.1092607306178
+                },
+                "2013": {
+                    "Revenue": 14102.560546875,
+                    "Units": 24.928138732910156,
+                    "Average Selling Price per Unit": 565.7285807807538
+                },
+                "2014": {
+                    "Revenue": 14752.419921875,
+                    "Units": 30.549942016601562,
+                    "Average Selling Price per Unit": 482.89518565561224
+                },
+                "2015": {
+                    "Revenue": 21540.5078125,
+                    "Units": 44.80280303955078,
+                    "Average Selling Price per Unit": 480.78482485760065
+                },
+                "2016": {
+                    "Revenue": 22794.25390625,
+                    "Units": 43.282161712646484,
+                    "Average Selling Price per Unit": 526.6431482231123
+                },
+                "2017": {
+                    "Revenue": 15097.2177734375,
+                    "Units": 32.63548278808594,
+                    "Average Selling Price per Unit": 462.6013309338559
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.2 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 15818.2919921875,
+                    "Units": 21.797067642211914,
+                    "Average Selling Price per Unit": 725.7073406311775
+                },
+                "2011": {
+                    "Revenue": 7152.14306640625,
+                    "Units": 9.228571891784668,
+                    "Average Selling Price per Unit": 774.9999837757272
+                },
+                "2012": {
+                    "Revenue": 16580.09765625,
+                    "Units": 26.283950805664062,
+                    "Average Selling Price per Unit": 630.8069048994366
+                },
+                "2013": {
+                    "Revenue": 7800.12158203125,
+                    "Units": 17.05008888244629,
+                    "Average Selling Price per Unit": 457.4827518970749
+                },
+                "2014": {
+                    "Revenue": 17365.619140625,
+                    "Units": 36.21919631958008,
+                    "Average Selling Price per Unit": 479.45898598631123
+                },
+                "2015": {
+                    "Revenue": 19806.818359375,
+                    "Units": 39.824466705322266,
+                    "Average Selling Price per Unit": 497.3530092928515
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.3 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 72127.671875,
+                    "Units": 90.15959167480469,
+                    "Average Selling Price per Unit": 799.9999837527686
+                },
+                "2011": {
+                    "Revenue": 62694.4296875,
+                    "Units": 85.07525634765625,
+                    "Average Selling Price per Unit": 736.9290717303513
+                },
+                "2012": {
+                    "Revenue": 21411.93359375,
+                    "Units": 26.97223472595215,
+                    "Average Selling Price per Unit": 793.8509289757835
+                },
+                "2013": {
+                    "Revenue": 8469.23046875,
+                    "Units": 10.586538314819336,
+                    "Average Selling Price per Unit": 799.9999827039337
+                },
+                "2014": {
+                    "Revenue": 10291.6669921875,
+                    "Units": 12.666666984558105,
+                    "Average Selling Price per Unit": 812.5000053079503
+                },
+                "2015": {
+                    "Revenue": 3929.564208984375,
+                    "Units": 5.121621608734131,
+                    "Average Selling Price per Unit": 767.2500057956474
+                },
+                "2016": {
+                    "Revenue": 10676.0400390625,
+                    "Units": 14.524681091308594,
+                    "Average Selling Price per Unit": 735.0275005659796
+                },
+                "2017": {
+                    "Revenue": 7086.15380859375,
+                    "Units": 10.123077392578125,
+                    "Average Selling Price per Unit": 699.9999638241492
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.5 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 158852.78125,
+                    "Units": 206.87368774414062,
+                    "Average Selling Price per Unit": 767.873299800541
+                },
+                "2011": {
+                    "Revenue": 122846.234375,
+                    "Units": 156.3357696533203,
+                    "Average Selling Price per Unit": 785.7845625950833
+                },
+                "2012": {
+                    "Revenue": 126812.828125,
+                    "Units": 160.44287109375,
+                    "Average Selling Price per Unit": 790.3924135769217
+                },
+                "2013": {
+                    "Revenue": 179050.1875,
+                    "Units": 232.6744384765625,
+                    "Average Selling Price per Unit": 769.530975006676
+                },
+                "2014": {
+                    "Revenue": 62174.25390625,
+                    "Units": 78.72606658935547,
+                    "Average Selling Price per Unit": 789.75435455906
+                },
+                "2015": {
+                    "Revenue": 54746.86328125,
+                    "Units": 71.98592376708984,
+                    "Average Selling Price per Unit": 760.5217855977406
+                },
+                "2016": {
+                    "Revenue": 58308.453125,
+                    "Units": 78.4477767944336,
+                    "Average Selling Price per Unit": 743.277317823714
+                },
+                "2017": {
+                    "Revenue": 66751.640625,
+                    "Units": 88.12705993652344,
+                    "Average Selling Price per Unit": 757.4477200655529
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.7 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 81489.640625,
+                    "Units": 102.35845947265625,
+                    "Average Selling Price per Unit": 796.1202331964454
+                },
+                "2011": {
+                    "Revenue": 106806.609375,
+                    "Units": 138.53431701660156,
+                    "Average Selling Price per Unit": 770.9758251610725
+                },
+                "2012": {
+                    "Revenue": 76660.84375,
+                    "Units": 97.47822570800781,
+                    "Average Selling Price per Unit": 786.4406968140202
+                },
+                "2013": {
+                    "Revenue": 70017.0546875,
+                    "Units": 88.127197265625,
+                    "Average Selling Price per Unit": 794.4999598303456
+                },
+                "2014": {
+                    "Revenue": 48502.578125,
+                    "Units": 63.9014892578125,
+                    "Average Selling Price per Unit": 759.0210915009332
+                },
+                "2015": {
+                    "Revenue": 36473.296875,
+                    "Units": 48.23854064941406,
+                    "Average Selling Price per Unit": 756.1028253337723
+                },
+                "2016": {
+                    "Revenue": 32393.9296875,
+                    "Units": 42.618499755859375,
+                    "Average Selling Price per Unit": 760.0908026577436
+                },
+                "2017": {
+                    "Revenue": 57758.00390625,
+                    "Units": 78.237548828125,
+                    "Average Selling Price per Unit": 738.2389245493212
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "5.1 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 68023.1484375,
+                    "Units": 80.39193725585938,
+                    "Average Selling Price per Unit": 846.1439139226878
+                },
+                "2011": {
+                    "Revenue": 85283.0078125,
+                    "Units": 100.83055114746094,
+                    "Average Selling Price per Unit": 845.805233056564
+                },
+                "2012": {
+                    "Revenue": 78866.234375,
+                    "Units": 93.94212341308594,
+                    "Average Selling Price per Unit": 839.5193924689817
+                },
+                "2013": {
+                    "Revenue": 47626.1796875,
+                    "Units": 58.06889343261719,
+                    "Average Selling Price per Unit": 820.1668203435829
+                },
+                "2014": {
+                    "Revenue": 46489.390625,
+                    "Units": 55.18851852416992,
+                    "Average Selling Price per Unit": 842.3743174885167
+                },
+                "2015": {
+                    "Revenue": 87189.375,
+                    "Units": 104.66344451904297,
+                    "Average Selling Price per Unit": 833.0451515393835
+                },
+                "2016": {
+                    "Revenue": 30671.544921875,
+                    "Units": 37.822540283203125,
+                    "Average Selling Price per Unit": 810.9329699225977
+                },
+                "2017": {
+                    "Revenue": 20765.60546875,
+                    "Units": 27.35464096069336,
+                    "Average Selling Price per Unit": 759.1254989816416
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "5.2 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 229577.8125,
+                    "Units": 290.0757751464844,
+                    "Average Selling Price per Unit": 791.4408308796772
+                },
+                "2011": {
+                    "Revenue": 150547.921875,
+                    "Units": 196.79965209960938,
+                    "Average Selling Price per Unit": 764.9806301425815
+                },
+                "2012": {
+                    "Revenue": 102101.0390625,
+                    "Units": 133.16305541992188,
+                    "Average Selling Price per Unit": 766.7369807679042
+                },
+                "2013": {
+                    "Revenue": 90577.2265625,
+                    "Units": 113.21075439453125,
+                    "Average Selling Price per Unit": 800.076168089517
+                },
+                "2014": {
+                    "Revenue": 45273.421875,
+                    "Units": 58.26725769042969,
+                    "Average Selling Price per Unit": 776.9959265207722
+                },
+                "2015": {
+                    "Revenue": 75214.5546875,
+                    "Units": 94.3972396850586,
+                    "Average Selling Price per Unit": 796.7876490715346
+                },
+                "2016": {
+                    "Revenue": 68251.3828125,
+                    "Units": 89.4859390258789,
+                    "Average Selling Price per Unit": 762.7051082602153
+                },
+                "2017": {
+                    "Revenue": 10409.2578125,
+                    "Units": 13.687970161437988,
+                    "Average Selling Price per Unit": 760.4675996317673
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "5.3 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 156294.765625,
+                    "Units": 183.87620544433594,
+                    "Average Selling Price per Unit": 849.9999510394207
+                },
+                "2011": {
+                    "Revenue": 141960.15625,
+                    "Units": 173.72950744628906,
+                    "Average Selling Price per Unit": 817.1332454499072
+                },
+                "2012": {
+                    "Revenue": 121684.7265625,
+                    "Units": 144.51588439941406,
+                    "Average Selling Price per Unit": 842.0162743230832
+                },
+                "2013": {
+                    "Revenue": 105293.484375,
+                    "Units": 122.7169418334961,
+                    "Average Selling Price per Unit": 858.0191357592951
+                },
+                "2014": {
+                    "Revenue": 101188.59375,
+                    "Units": 124.45145416259766,
+                    "Average Selling Price per Unit": 813.0768292815254
+                },
+                "2015": {
+                    "Revenue": 101189.296875,
+                    "Units": 122.4664077758789,
+                    "Average Selling Price per Unit": 826.2616558508246
+                },
+                "2016": {
+                    "Revenue": 86772.7109375,
+                    "Units": 111.19038391113281,
+                    "Average Selling Price per Unit": 780.3976196975068
+                },
+                "2017": {
+                    "Revenue": 69571.5078125,
+                    "Units": 90.82847595214844,
+                    "Average Selling Price per Unit": 765.9658172526495
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "5.6 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 165721.296875,
+                    "Units": 209.2493896484375,
+                    "Average Selling Price per Unit": 791.9798339838908
+                },
+                "2011": {
+                    "Revenue": 97830.984375,
+                    "Units": 130.54119873046875,
+                    "Average Selling Price per Unit": 749.4261223768426
+                },
+                "2012": {
+                    "Revenue": 99586.6953125,
+                    "Units": 132.73333740234375,
+                    "Average Selling Price per Unit": 750.2764359087195
+                },
+                "2013": {
+                    "Revenue": 18961.6484375,
+                    "Units": 24.466644287109375,
+                    "Average Selling Price per Unit": 774.9999638279056
+                },
+                "2014": {
+                    "Revenue": 21600.224609375,
+                    "Units": 29.190587997436523,
+                    "Average Selling Price per Unit": 739.9722339019653
+                },
+                "2015": {
+                    "Revenue": 36573.7109375,
+                    "Units": 47.514522552490234,
+                    "Average Selling Price per Unit": 769.7375238717025
+                },
+                "2016": {
+                    "Revenue": 54797.91796875,
+                    "Units": 70.4508285522461,
+                    "Average Selling Price per Unit": 777.8179347899656
+                },
+                "2017": {
+                    "Revenue": 23046.14453125,
+                    "Units": 31.15700340270996,
+                    "Average Selling Price per Unit": 739.677825668097
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "6.1 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 409361.28125,
+                    "Units": 485.7703857421875,
+                    "Average Selling Price per Unit": 842.7053053564694
+                },
+                "2011": {
+                    "Revenue": 177285.421875,
+                    "Units": 210.7791290283203,
+                    "Average Selling Price per Unit": 841.0957132818397
+                },
+                "2012": {
+                    "Revenue": 72543.5078125,
+                    "Units": 88.55728149414062,
+                    "Average Selling Price per Unit": 819.1704463884184
+                },
+                "2013": {
+                    "Revenue": 140848.125,
+                    "Units": 173.3185577392578,
+                    "Average Selling Price per Unit": 812.6546103152632
+                },
+                "2014": {
+                    "Revenue": 125410.1015625,
+                    "Units": 152.3214111328125,
+                    "Average Selling Price per Unit": 823.3254972483946
+                },
+                "2015": {
+                    "Revenue": 105450.359375,
+                    "Units": 129.8229522705078,
+                    "Average Selling Price per Unit": 812.2628358911185
+                },
+                "2016": {
+                    "Revenue": 157596.65625,
+                    "Units": 200.10643005371094,
+                    "Average Selling Price per Unit": 787.5641787607684
+                },
+                "2017": {
+                    "Revenue": 71572.765625,
+                    "Units": 92.73381042480469,
+                    "Average Selling Price per Unit": 771.8087426487925
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "6.4 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 390697.21875,
+                    "Units": 465.6631774902344,
+                    "Average Selling Price per Unit": 839.0124829189301
+                },
+                "2011": {
+                    "Revenue": 235329.75,
+                    "Units": 280.5805969238281,
+                    "Average Selling Price per Unit": 838.7242474357099
+                },
+                "2012": {
+                    "Revenue": 185520.203125,
+                    "Units": 227.1593780517578,
+                    "Average Selling Price per Unit": 816.6962100183669
+                },
+                "2013": {
+                    "Revenue": 114492.1328125,
+                    "Units": 136.28692626953125,
+                    "Average Selling Price per Unit": 840.081554015473
+                },
+                "2014": {
+                    "Revenue": 107884.078125,
+                    "Units": 131.95640563964844,
+                    "Average Selling Price per Unit": 817.5736342774744
+                },
+                "2015": {
+                    "Revenue": 139645.828125,
+                    "Units": 173.71478271484375,
+                    "Average Selling Price per Unit": 803.8799343532634
+                },
+                "2016": {
+                    "Revenue": 142800.9375,
+                    "Units": 174.44480895996094,
+                    "Average Selling Price per Unit": 818.6023897837858
+                },
+                "2017": {
+                    "Revenue": 36040.43359375,
+                    "Units": 45.62976837158203,
+                    "Average Selling Price per Unit": 789.8447631874411
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Saline SILTEX",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "6.6 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 241470.78125,
+                    "Units": 292.6824645996094,
+                    "Average Selling Price per Unit": 825.0264722224916
+                },
+                "2011": {
+                    "Revenue": 199442,
+                    "Units": 234.02281188964844,
+                    "Average Selling Price per Unit": 852.2331579113119
+                },
+                "2012": {
+                    "Revenue": 202304.765625,
+                    "Units": 248.36717224121094,
+                    "Average Selling Price per Unit": 814.5390705198522
+                },
+                "2013": {
+                    "Revenue": 160429.203125,
+                    "Units": 196.68350219726562,
+                    "Average Selling Price per Unit": 815.6718857085226
+                },
+                "2014": {
+                    "Revenue": 88130.7890625,
+                    "Units": 107.14785766601562,
+                    "Average Selling Price per Unit": 822.5156431704623
+                },
+                "2015": {
+                    "Revenue": 157233.9375,
+                    "Units": 192.3025360107422,
+                    "Average Selling Price per Unit": 817.6383981291685
+                },
+                "2016": {
+                    "Revenue": 137987.828125,
+                    "Units": 169.7267608642578,
+                    "Average Selling Price per Unit": 812.9998323326183
+                },
+                "2017": {
+                    "Revenue": 75933.3046875,
+                    "Units": 96.61375427246094,
+                    "Average Selling Price per Unit": 785.9471486157147
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 1600",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.0 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 230271.59375,
+                    "Units": 416.8171081542969,
+                    "Average Selling Price per Unit": 552.4523567894395
+                },
+                "2011": {
+                    "Revenue": 270244.15625,
+                    "Units": 512.1110229492188,
+                    "Average Selling Price per Unit": 527.706188969882
+                },
+                "2012": {
+                    "Revenue": 113266.828125,
+                    "Units": 259.45147705078125,
+                    "Average Selling Price per Unit": 436.56266448169345
+                },
+                "2013": {
+                    "Revenue": 147295.5625,
+                    "Units": 311.1160888671875,
+                    "Average Selling Price per Unit": 473.4424472752969
+                },
+                "2014": {
+                    "Revenue": 142739.5,
+                    "Units": 322.72991943359375,
+                    "Average Selling Price per Unit": 442.2877812212594
+                },
+                "2015": {
+                    "Revenue": 112268.4609375,
+                    "Units": 275.03741455078125,
+                    "Average Selling Price per Unit": 408.1934129611716
+                },
+                "2016": {
+                    "Revenue": 58443.1328125,
+                    "Units": 153.9586639404297,
+                    "Average Selling Price per Unit": 379.6027538606925
+                },
+                "2017": {
+                    "Revenue": 62430.4296875,
+                    "Units": 179.16888427734375,
+                    "Average Selling Price per Unit": 348.4445970588346
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 1600",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.1 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 230958.53125,
+                    "Units": 433.54656982421875,
+                    "Average Selling Price per Unit": 532.7190833124156
+                },
+                "2011": {
+                    "Revenue": 244223,
+                    "Units": 449.0218811035156,
+                    "Average Selling Price per Unit": 543.8999974785145
+                },
+                "2012": {
+                    "Revenue": 153537.515625,
+                    "Units": 334.99249267578125,
+                    "Average Selling Price per Unit": 458.3312133313972
+                },
+                "2013": {
+                    "Revenue": 109407.2578125,
+                    "Units": 243.39828491210938,
+                    "Average Selling Price per Unit": 449.49888554887207
+                },
+                "2014": {
+                    "Revenue": 126804.2734375,
+                    "Units": 277.86407470703125,
+                    "Average Selling Price per Unit": 456.35360948045314
+                },
+                "2015": {
+                    "Revenue": 102714.3125,
+                    "Units": 251.8644561767578,
+                    "Average Selling Price per Unit": 407.8158310195043
+                },
+                "2016": {
+                    "Revenue": 41838.140625,
+                    "Units": 114.41069793701172,
+                    "Average Selling Price per Unit": 365.6838161063732
+                },
+                "2017": {
+                    "Revenue": 56426.87890625,
+                    "Units": 165.85504150390625,
+                    "Average Selling Price per Unit": 340.2180506217595
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 1600",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.3 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 274646.90625,
+                    "Units": 520.12841796875,
+                    "Average Selling Price per Unit": 528.0367247045924
+                },
+                "2011": {
+                    "Revenue": 262054.71875,
+                    "Units": 486.53363037109375,
+                    "Average Selling Price per Unit": 538.6158374090667
+                },
+                "2012": {
+                    "Revenue": 267734.34375,
+                    "Units": 546.0095825195312,
+                    "Average Selling Price per Unit": 490.3473351411793
+                },
+                "2013": {
+                    "Revenue": 130548.8828125,
+                    "Units": 310.2616882324219,
+                    "Average Selling Price per Unit": 420.7702328838738
+                },
+                "2014": {
+                    "Revenue": 136931.75,
+                    "Units": 316.16632080078125,
+                    "Average Selling Price per Unit": 433.10036835416673
+                },
+                "2015": {
+                    "Revenue": 123527.3046875,
+                    "Units": 299.154052734375,
+                    "Average Selling Price per Unit": 412.92204988839785
+                },
+                "2016": {
+                    "Revenue": 69026.671875,
+                    "Units": 191.77381896972656,
+                    "Average Selling Price per Unit": 359.93793233004635
+                },
+                "2017": {
+                    "Revenue": 37202.3203125,
+                    "Units": 100.47864532470703,
+                    "Average Selling Price per Unit": 370.2510139570144
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 1600",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.4 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 354138.59375,
+                    "Units": 655.4865112304688,
+                    "Average Selling Price per Unit": 540.2683162544668
+                },
+                "2011": {
+                    "Revenue": 347067.09375,
+                    "Units": 645.9266967773438,
+                    "Average Selling Price per Unit": 537.3165337206009
+                },
+                "2012": {
+                    "Revenue": 258649.5,
+                    "Units": 536.7577514648438,
+                    "Average Selling Price per Unit": 481.87380488522086
+                },
+                "2013": {
+                    "Revenue": 96899.9765625,
+                    "Units": 223.21856689453125,
+                    "Average Selling Price per Unit": 434.1035690292034
+                },
+                "2014": {
+                    "Revenue": 163600.25,
+                    "Units": 400.74853515625,
+                    "Average Selling Price per Unit": 408.2366762394104
+                },
+                "2015": {
+                    "Revenue": 120439.09375,
+                    "Units": 292.2713317871094,
+                    "Average Selling Price per Unit": 412.0797377340037
+                },
+                "2016": {
+                    "Revenue": 94218.828125,
+                    "Units": 245.5213165283203,
+                    "Average Selling Price per Unit": 383.75009330048164
+                },
+                "2017": {
+                    "Revenue": 51035.55859375,
+                    "Units": 146.59388732910156,
+                    "Average Selling Price per Unit": 348.14247390258345
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 1600",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.5 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 440999.03125,
+                    "Units": 816.1219482421875,
+                    "Average Selling Price per Unit": 540.3592345480356
+                },
+                "2011": {
+                    "Revenue": 417049.90625,
+                    "Units": 792.1547241210938,
+                    "Average Selling Price per Unit": 526.4753129039563
+                },
+                "2012": {
+                    "Revenue": 264722.78125,
+                    "Units": 522.4837646484375,
+                    "Average Selling Price per Unit": 506.6622145247392
+                },
+                "2013": {
+                    "Revenue": 206104.234375,
+                    "Units": 475.514892578125,
+                    "Average Selling Price per Unit": 433.43381583183117
+                },
+                "2014": {
+                    "Revenue": 185307.15625,
+                    "Units": 437.13836669921875,
+                    "Average Selling Price per Unit": 423.90961390379186
+                },
+                "2015": {
+                    "Revenue": 128932.2265625,
+                    "Units": 311.92266845703125,
+                    "Average Selling Price per Unit": 413.3467670056849
+                },
+                "2016": {
+                    "Revenue": 109381.046875,
+                    "Units": 293.19659423828125,
+                    "Average Selling Price per Unit": 373.0638384772842
+                },
+                "2017": {
+                    "Revenue": 94124.9375,
+                    "Units": 258.55499267578125,
+                    "Average Selling Price per Unit": 364.0422353709074
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 1600",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.6 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 459908.6875,
+                    "Units": 875.2968139648438,
+                    "Average Selling Price per Unit": 525.4316937551108
+                },
+                "2011": {
+                    "Revenue": 389447.03125,
+                    "Units": 768.3187866210938,
+                    "Average Selling Price per Unit": 506.8820885699113
+                },
+                "2012": {
+                    "Revenue": 252390.859375,
+                    "Units": 556.7424926757812,
+                    "Average Selling Price per Unit": 453.3350026184901
+                },
+                "2013": {
+                    "Revenue": 220277.515625,
+                    "Units": 481.43365478515625,
+                    "Average Selling Price per Unit": 457.5449045482719
+                },
+                "2014": {
+                    "Revenue": 199078.84375,
+                    "Units": 465.2673034667969,
+                    "Average Selling Price per Unit": 427.8805801882594
+                },
+                "2015": {
+                    "Revenue": 146165.140625,
+                    "Units": 347.3334655761719,
+                    "Average Selling Price per Unit": 420.82078207619554
+                },
+                "2016": {
+                    "Revenue": 116790.8046875,
+                    "Units": 300.9021911621094,
+                    "Average Selling Price per Unit": 388.1354410761988
+                },
+                "2017": {
+                    "Revenue": 98452.15625,
+                    "Units": 267.4365539550781,
+                    "Average Selling Price per Unit": 368.13275819631303
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 1600",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.7 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 1206084.25,
+                    "Units": 2222.317626953125,
+                    "Average Selling Price per Unit": 542.7146126062922
+                },
+                "2011": {
+                    "Revenue": 928694.8125,
+                    "Units": 1798.8883056640625,
+                    "Average Selling Price per Unit": 516.2604090403328
+                },
+                "2012": {
+                    "Revenue": 561832,
+                    "Units": 1229.915283203125,
+                    "Average Selling Price per Unit": 456.8054464180615
+                },
+                "2013": {
+                    "Revenue": 422582.625,
+                    "Units": 962.3846435546875,
+                    "Average Selling Price per Unit": 439.0995095673373
+                },
+                "2014": {
+                    "Revenue": 451413.8125,
+                    "Units": 1103.990966796875,
+                    "Average Selling Price per Unit": 408.89266857838004
+                },
+                "2015": {
+                    "Revenue": 355083.34375,
+                    "Units": 844.5115966796875,
+                    "Average Selling Price per Unit": 420.45999740685454
+                },
+                "2016": {
+                    "Revenue": 306629.90625,
+                    "Units": 757.2244873046875,
+                    "Average Selling Price per Unit": 404.9392371625986
+                },
+                "2017": {
+                    "Revenue": 188928.859375,
+                    "Units": 519.4589233398438,
+                    "Average Selling Price per Unit": 363.70317437284206
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 1600",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.8 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 572077.375,
+                    "Units": 1030.5169677734375,
+                    "Average Selling Price per Unit": 555.1362984697338
+                },
+                "2011": {
+                    "Revenue": 511215.25,
+                    "Units": 946.4894409179688,
+                    "Average Selling Price per Unit": 540.1172246614703
+                },
+                "2012": {
+                    "Revenue": 330230.78125,
+                    "Units": 726.56396484375,
+                    "Average Selling Price per Unit": 454.5102664443553
+                },
+                "2013": {
+                    "Revenue": 196852.890625,
+                    "Units": 445.4731140136719,
+                    "Average Selling Price per Unit": 441.8962321909251
+                },
+                "2014": {
+                    "Revenue": 182544.5,
+                    "Units": 434.83795166015625,
+                    "Average Selling Price per Unit": 419.7989142922512
+                },
+                "2015": {
+                    "Revenue": 159144.609375,
+                    "Units": 369.75030517578125,
+                    "Average Selling Price per Unit": 430.41102913854746
+                },
+                "2016": {
+                    "Revenue": 129575.625,
+                    "Units": 320.55078125,
+                    "Average Selling Price per Unit": 404.2280742374575
+                },
+                "2017": {
+                    "Revenue": 125098.5234375,
+                    "Units": 329.43402099609375,
+                    "Average Selling Price per Unit": 379.7377182212257
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 1600",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.9 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 537628.4375,
+                    "Units": 984.9557495117188,
+                    "Average Selling Price per Unit": 545.8401941067135
+                },
+                "2011": {
+                    "Revenue": 372606.625,
+                    "Units": 735.997314453125,
+                    "Average Selling Price per Unit": 506.2608486239673
+                },
+                "2012": {
+                    "Revenue": 229795.15625,
+                    "Units": 516.5171508789062,
+                    "Average Selling Price per Unit": 444.8935642485061
+                },
+                "2013": {
+                    "Revenue": 230677.34375,
+                    "Units": 497.4927673339844,
+                    "Average Selling Price per Unit": 463.67979375092744
+                },
+                "2014": {
+                    "Revenue": 166710.9375,
+                    "Units": 378.7277526855469,
+                    "Average Selling Price per Unit": 440.1867471233831
+                },
+                "2015": {
+                    "Revenue": 139488.15625,
+                    "Units": 327.5080261230469,
+                    "Average Selling Price per Unit": 425.90759652892723
+                },
+                "2016": {
+                    "Revenue": 162731.171875,
+                    "Units": 391.66070556640625,
+                    "Average Selling Price per Unit": 415.49016677499924
+                },
+                "2017": {
+                    "Revenue": 98024.6171875,
+                    "Units": 264.8846435546875,
+                    "Average Selling Price per Unit": 370.06530794701223
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 1600",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.0 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 399514.09375,
+                    "Units": 725.0125122070312,
+                    "Average Selling Price per Unit": 551.044412369971
+                },
+                "2011": {
+                    "Revenue": 447626.78125,
+                    "Units": 864.0548706054688,
+                    "Average Selling Price per Unit": 518.0536520051495
+                },
+                "2012": {
+                    "Revenue": 296027.625,
+                    "Units": 663.137939453125,
+                    "Average Selling Price per Unit": 446.4042959812062
+                },
+                "2013": {
+                    "Revenue": 243639,
+                    "Units": 555.9701538085938,
+                    "Average Selling Price per Unit": 438.22316419503096
+                },
+                "2014": {
+                    "Revenue": 149333.609375,
+                    "Units": 351.337890625,
+                    "Average Selling Price per Unit": 425.0427106206743
+                },
+                "2015": {
+                    "Revenue": 95474.328125,
+                    "Units": 230.76202392578125,
+                    "Average Selling Price per Unit": 413.73500934324835
+                },
+                "2016": {
+                    "Revenue": 142479.421875,
+                    "Units": 360.0678405761719,
+                    "Average Selling Price per Unit": 395.7016034728563
+                },
+                "2017": {
+                    "Revenue": 92974.671875,
+                    "Units": 250.2451171875,
+                    "Average Selling Price per Unit": 371.5344096218161
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 1600",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.1 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 401622.8125,
+                    "Units": 707.3434448242188,
+                    "Average Selling Price per Unit": 567.790392967884
+                },
+                "2011": {
+                    "Revenue": 381444.625,
+                    "Units": 745.1612548828125,
+                    "Average Selling Price per Unit": 511.8954085448092
+                },
+                "2012": {
+                    "Revenue": 338898.0625,
+                    "Units": 782.8058471679688,
+                    "Average Selling Price per Unit": 432.9273519430952
+                },
+                "2013": {
+                    "Revenue": 255311.140625,
+                    "Units": 546.7262573242188,
+                    "Average Selling Price per Unit": 466.98166990285193
+                },
+                "2014": {
+                    "Revenue": 234470.515625,
+                    "Units": 577.96728515625,
+                    "Average Selling Price per Unit": 405.6812931230395
+                },
+                "2015": {
+                    "Revenue": 93698.8203125,
+                    "Units": 230.5956268310547,
+                    "Average Selling Price per Unit": 406.33389973673786
+                },
+                "2016": {
+                    "Revenue": 152937.609375,
+                    "Units": 391.1871643066406,
+                    "Average Selling Price per Unit": 390.95763698196527
+                },
+                "2017": {
+                    "Revenue": 63550.65625,
+                    "Units": 167.58726501464844,
+                    "Average Selling Price per Unit": 379.2093405453283
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 1600",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.2 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 392012.5,
+                    "Units": 716.955810546875,
+                    "Average Selling Price per Unit": 546.77358664683
+                },
+                "2011": {
+                    "Revenue": 375690.5625,
+                    "Units": 754.27001953125,
+                    "Average Selling Price per Unit": 498.0849732480118
+                },
+                "2012": {
+                    "Revenue": 339924.4375,
+                    "Units": 756.8828735351562,
+                    "Average Selling Price per Unit": 449.11101755060514
+                },
+                "2013": {
+                    "Revenue": 346092.40625,
+                    "Units": 757.8702392578125,
+                    "Average Selling Price per Unit": 456.6644635484442
+                },
+                "2014": {
+                    "Revenue": 278895.28125,
+                    "Units": 718.8781127929688,
+                    "Average Selling Price per Unit": 387.9590660598115
+                },
+                "2015": {
+                    "Revenue": 165999.078125,
+                    "Units": 407.28631591796875,
+                    "Average Selling Price per Unit": 407.57342350395527
+                },
+                "2016": {
+                    "Revenue": 193926.703125,
+                    "Units": 479.7872009277344,
+                    "Average Selling Price per Unit": 404.193156361854
+                },
+                "2017": {
+                    "Revenue": 113063.421875,
+                    "Units": 307.4904479980469,
+                    "Average Selling Price per Unit": 367.69734673422494
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 1600",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.5 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 170052.34375,
+                    "Units": 324.7528076171875,
+                    "Average Selling Price per Unit": 523.6362542874595
+                },
+                "2011": {
+                    "Revenue": 114586.8515625,
+                    "Units": 220.26651000976562,
+                    "Average Selling Price per Unit": 520.2191270811878
+                },
+                "2012": {
+                    "Revenue": 100362.421875,
+                    "Units": 193.52784729003906,
+                    "Average Selling Price per Unit": 518.5942141163149
+                },
+                "2013": {
+                    "Revenue": 76612.828125,
+                    "Units": 167.08892822265625,
+                    "Average Selling Price per Unit": 458.515288475061
+                },
+                "2014": {
+                    "Revenue": 82723.8671875,
+                    "Units": 200.3508758544922,
+                    "Average Selling Price per Unit": 412.8949615752089
+                },
+                "2015": {
+                    "Revenue": 51848.203125,
+                    "Units": 132.09107971191406,
+                    "Average Selling Price per Unit": 392.51858064964784
+                },
+                "2016": {
+                    "Revenue": 54090.69140625,
+                    "Units": 127.36073303222656,
+                    "Average Selling Price per Unit": 424.7046174943358
+                },
+                "2017": {
+                    "Revenue": 24734.818359375,
+                    "Units": 72.10488891601562,
+                    "Average Selling Price per Unit": 343.03940733040935
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 1600",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.6 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 113492.828125,
+                    "Units": 209.48318481445312,
+                    "Average Selling Price per Unit": 541.7753612325721
+                },
+                "2011": {
+                    "Revenue": 121661.34375,
+                    "Units": 221.8440399169922,
+                    "Average Selling Price per Unit": 548.4093410646608
+                },
+                "2012": {
+                    "Revenue": 85370.78125,
+                    "Units": 181.3834991455078,
+                    "Average Selling Price per Unit": 470.66454033679565
+                },
+                "2013": {
+                    "Revenue": 53817.91796875,
+                    "Units": 123.06127166748047,
+                    "Average Selling Price per Unit": 437.3261972635022
+                },
+                "2014": {
+                    "Revenue": 117774.1796875,
+                    "Units": 298.14337158203125,
+                    "Average Selling Price per Unit": 395.02531638572947
+                },
+                "2015": {
+                    "Revenue": 41297.4453125,
+                    "Units": 111.20820617675781,
+                    "Average Selling Price per Unit": 371.3524993547737
+                },
+                "2016": {
+                    "Revenue": 45676.7109375,
+                    "Units": 110.63249969482422,
+                    "Average Selling Price per Unit": 412.8688320656007
+                },
+                "2017": {
+                    "Revenue": 38498.25390625,
+                    "Units": 113.3268814086914,
+                    "Average Selling Price per Unit": 339.7098148974339
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 1600",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.9 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 63650.35546875,
+                    "Units": 106.08392333984375,
+                    "Average Selling Price per Unit": 600.0000138083482
+                },
+                "2011": {
+                    "Revenue": 70193.296875,
+                    "Units": 156.3848114013672,
+                    "Average Selling Price per Unit": 448.8498355178906
+                },
+                "2012": {
+                    "Revenue": 62337.640625,
+                    "Units": 118.00901794433594,
+                    "Average Selling Price per Unit": 528.2447198603436
+                },
+                "2013": {
+                    "Revenue": 35066.6171875,
+                    "Units": 86.23445892333984,
+                    "Average Selling Price per Unit": 406.6427461285899
+                },
+                "2014": {
+                    "Revenue": 94713.171875,
+                    "Units": 232.72674560546875,
+                    "Average Selling Price per Unit": 406.97158218146103
+                },
+                "2015": {
+                    "Revenue": 25884.54296875,
+                    "Units": 48.029083251953125,
+                    "Average Selling Price per Unit": 538.9347706880787
+                },
+                "2016": {
+                    "Revenue": 56589.44140625,
+                    "Units": 135.18438720703125,
+                    "Average Selling Price per Unit": 418.6092978295252
+                },
+                "2017": {
+                    "Revenue": 36030.078125,
+                    "Units": 96.45276641845703,
+                    "Average Selling Price per Unit": 373.5515264402551
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 2000",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.5 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 93693.046875,
+                    "Units": 163.68991088867188,
+                    "Average Selling Price per Unit": 572.3813176165887
+                },
+                "2011": {
+                    "Revenue": 131021.125,
+                    "Units": 235.88235473632812,
+                    "Average Selling Price per Unit": 555.4511491393955
+                },
+                "2012": {
+                    "Revenue": 170944.1875,
+                    "Units": 335.27447509765625,
+                    "Average Selling Price per Unit": 509.8634110163282
+                },
+                "2013": {
+                    "Revenue": 94638.75,
+                    "Units": 212.88702392578125,
+                    "Average Selling Price per Unit": 444.5491709865505
+                },
+                "2014": {
+                    "Revenue": 122492.140625,
+                    "Units": 288.0918884277344,
+                    "Average Selling Price per Unit": 425.1842746892411
+                },
+                "2015": {
+                    "Revenue": 68111.484375,
+                    "Units": 167.8400115966797,
+                    "Average Selling Price per Unit": 405.81196180248253
+                },
+                "2016": {
+                    "Revenue": 47742.5546875,
+                    "Units": 130.50462341308594,
+                    "Average Selling Price per Unit": 365.8303701347087
+                },
+                "2017": {
+                    "Revenue": 21520.236328125,
+                    "Units": 61.643798828125,
+                    "Average Selling Price per Unit": 349.1062643320805
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 2000",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.7 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 160985.71875,
+                    "Units": 279.0585021972656,
+                    "Average Selling Price per Unit": 576.8887795298194
+                },
+                "2011": {
+                    "Revenue": 154907.546875,
+                    "Units": 283.80059814453125,
+                    "Average Selling Price per Unit": 545.832348091494
+                },
+                "2012": {
+                    "Revenue": 185181.171875,
+                    "Units": 381.5724182128906,
+                    "Average Selling Price per Unit": 485.3106855634463
+                },
+                "2013": {
+                    "Revenue": 184201.984375,
+                    "Units": 391.6583557128906,
+                    "Average Selling Price per Unit": 470.3129186142814
+                },
+                "2014": {
+                    "Revenue": 134923.34375,
+                    "Units": 333.5071105957031,
+                    "Average Selling Price per Unit": 404.55912172008226
+                },
+                "2015": {
+                    "Revenue": 79213.671875,
+                    "Units": 207.83181762695312,
+                    "Average Selling Price per Unit": 381.1431415048501
+                },
+                "2016": {
+                    "Revenue": 91152.9453125,
+                    "Units": 232.6302490234375,
+                    "Average Selling Price per Unit": 391.8361678893975
+                },
+                "2017": {
+                    "Revenue": 54483.34375,
+                    "Units": 151.05018615722656,
+                    "Average Selling Price per Unit": 360.69696526748305
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 2000",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "3.8 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 228790.1875,
+                    "Units": 395.5355224609375,
+                    "Average Selling Price per Unit": 578.4314543394645
+                },
+                "2011": {
+                    "Revenue": 146743.890625,
+                    "Units": 267.0174865722656,
+                    "Average Selling Price per Unit": 549.5665939664414
+                },
+                "2012": {
+                    "Revenue": 266281.21875,
+                    "Units": 542.7501220703125,
+                    "Average Selling Price per Unit": 490.6147560764687
+                },
+                "2013": {
+                    "Revenue": 214212,
+                    "Units": 472.361328125,
+                    "Average Selling Price per Unit": 453.49182341047515
+                },
+                "2014": {
+                    "Revenue": 190366.03125,
+                    "Units": 436.6515197753906,
+                    "Average Selling Price per Unit": 435.9678659722116
+                },
+                "2015": {
+                    "Revenue": 80946.109375,
+                    "Units": 209.88494873046875,
+                    "Average Selling Price per Unit": 385.6689575151472
+                },
+                "2016": {
+                    "Revenue": 100172.140625,
+                    "Units": 259.9454650878906,
+                    "Average Selling Price per Unit": 385.3582927139376
+                },
+                "2017": {
+                    "Revenue": 76831.6796875,
+                    "Units": 199.6593475341797,
+                    "Average Selling Price per Unit": 384.81383735037593
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 2000",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.0 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 382276.8125,
+                    "Units": 663.7791748046875,
+                    "Average Selling Price per Unit": 575.9096202626157
+                },
+                "2011": {
+                    "Revenue": 323877.09375,
+                    "Units": 588.1820678710938,
+                    "Average Selling Price per Unit": 550.6408839056635
+                },
+                "2012": {
+                    "Revenue": 336924.84375,
+                    "Units": 746.4982299804688,
+                    "Average Selling Price per Unit": 451.34044558794903
+                },
+                "2013": {
+                    "Revenue": 325431.5,
+                    "Units": 701.1741943359375,
+                    "Average Selling Price per Unit": 464.1236124044854
+                },
+                "2014": {
+                    "Revenue": 313641.25,
+                    "Units": 714.0537109375,
+                    "Average Selling Price per Unit": 439.2404173464936
+                },
+                "2015": {
+                    "Revenue": 128843.8125,
+                    "Units": 304.7078857421875,
+                    "Average Selling Price per Unit": 422.84370877429274
+                },
+                "2016": {
+                    "Revenue": 166001.265625,
+                    "Units": 422.8628234863281,
+                    "Average Selling Price per Unit": 392.56528690885756
+                },
+                "2017": {
+                    "Revenue": 158603.84375,
+                    "Units": 441.3504638671875,
+                    "Average Selling Price per Unit": 359.36031959791376
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 2000",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.1 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 375424.125,
+                    "Units": 664.4657592773438,
+                    "Average Selling Price per Unit": 565.0014613368518
+                },
+                "2011": {
+                    "Revenue": 346331.5625,
+                    "Units": 644.4586791992188,
+                    "Average Selling Price per Unit": 537.3991749639235
+                },
+                "2012": {
+                    "Revenue": 368005.34375,
+                    "Units": 774.9290771484375,
+                    "Average Selling Price per Unit": 474.88906353104704
+                },
+                "2013": {
+                    "Revenue": 361927.375,
+                    "Units": 739.1974487304688,
+                    "Average Selling Price per Unit": 489.62205649057705
+                },
+                "2014": {
+                    "Revenue": 273603.6875,
+                    "Units": 638.9608764648438,
+                    "Average Selling Price per Unit": 428.20100193576394
+                },
+                "2015": {
+                    "Revenue": 154960.6875,
+                    "Units": 370.3262023925781,
+                    "Average Selling Price per Unit": 418.4437571493473
+                },
+                "2016": {
+                    "Revenue": 224197.703125,
+                    "Units": 561.8346557617188,
+                    "Average Selling Price per Unit": 399.0456993455475
+                },
+                "2017": {
+                    "Revenue": 206462.046875,
+                    "Units": 513.3612670898438,
+                    "Average Selling Price per Unit": 402.1769075906284
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 2000",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.3 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 490879.6875,
+                    "Units": 900.119384765625,
+                    "Average Selling Price per Unit": 545.3495345262633
+                },
+                "2011": {
+                    "Revenue": 539807.625,
+                    "Units": 985.1760864257812,
+                    "Average Selling Price per Unit": 547.930093348512
+                },
+                "2012": {
+                    "Revenue": 475439.5,
+                    "Units": 1039.9837646484375,
+                    "Average Selling Price per Unit": 457.1605020783382
+                },
+                "2013": {
+                    "Revenue": 432290.375,
+                    "Units": 948.5990600585938,
+                    "Average Selling Price per Unit": 455.7145301970866
+                },
+                "2014": {
+                    "Revenue": 369998.0625,
+                    "Units": 852.729248046875,
+                    "Average Selling Price per Unit": 433.8986417405739
+                },
+                "2015": {
+                    "Revenue": 198594.734375,
+                    "Units": 493.0343933105469,
+                    "Average Selling Price per Unit": 402.80097508311434
+                },
+                "2016": {
+                    "Revenue": 266803.65625,
+                    "Units": 707.5628051757812,
+                    "Average Selling Price per Unit": 377.074168255237
+                },
+                "2017": {
+                    "Revenue": 244347.3125,
+                    "Units": 688.3379516601562,
+                    "Average Selling Price per Unit": 354.98160737857773
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 2000",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.4 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 369035.5625,
+                    "Units": 705.3296508789062,
+                    "Average Selling Price per Unit": 523.2100508466466
+                },
+                "2011": {
+                    "Revenue": 502173.28125,
+                    "Units": 933.9403686523438,
+                    "Average Selling Price per Unit": 537.6930884512739
+                },
+                "2012": {
+                    "Revenue": 369010.0625,
+                    "Units": 812.114013671875,
+                    "Average Selling Price per Unit": 454.38208956839173
+                },
+                "2013": {
+                    "Revenue": 386033.3125,
+                    "Units": 806.6697387695312,
+                    "Average Selling Price per Unit": 478.5518706687115
+                },
+                "2014": {
+                    "Revenue": 326593.4375,
+                    "Units": 748.7062377929688,
+                    "Average Selling Price per Unit": 436.2103866834741
+                },
+                "2015": {
+                    "Revenue": 120179.9375,
+                    "Units": 295.5474853515625,
+                    "Average Selling Price per Unit": 406.634951933502
+                },
+                "2016": {
+                    "Revenue": 262687.5625,
+                    "Units": 674.0574951171875,
+                    "Average Selling Price per Unit": 389.710913984171
+                },
+                "2017": {
+                    "Revenue": 156152.078125,
+                    "Units": 434.2870788574219,
+                    "Average Selling Price per Unit": 359.55957643461306
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 2000",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.5 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 358715.0625,
+                    "Units": 678.921875,
+                    "Average Selling Price per Unit": 528.3598536282249
+                },
+                "2011": {
+                    "Revenue": 482465.125,
+                    "Units": 926.1763916015625,
+                    "Average Selling Price per Unit": 520.9214242286092
+                },
+                "2012": {
+                    "Revenue": 467016.71875,
+                    "Units": 988.01416015625,
+                    "Average Selling Price per Unit": 472.682212040507
+                },
+                "2013": {
+                    "Revenue": 460141.125,
+                    "Units": 1026.0206298828125,
+                    "Average Selling Price per Unit": 448.4716111922187
+                },
+                "2014": {
+                    "Revenue": 350941.78125,
+                    "Units": 781.9356079101562,
+                    "Average Selling Price per Unit": 448.8116127464078
+                },
+                "2015": {
+                    "Revenue": 163556.671875,
+                    "Units": 395.28179931640625,
+                    "Average Selling Price per Unit": 413.7723319359813
+                },
+                "2016": {
+                    "Revenue": 281476.875,
+                    "Units": 760.2843627929688,
+                    "Average Selling Price per Unit": 370.2257849496877
+                },
+                "2017": {
+                    "Revenue": 247086.78125,
+                    "Units": 675.304931640625,
+                    "Average Selling Price per Unit": 365.88920008286186
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 2000",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.6 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 288650.96875,
+                    "Units": 550.5538940429688,
+                    "Average Selling Price per Unit": 524.2919392147135
+                },
+                "2011": {
+                    "Revenue": 280662.71875,
+                    "Units": 543.2667846679688,
+                    "Average Selling Price per Unit": 516.6204278833909
+                },
+                "2012": {
+                    "Revenue": 346455.90625,
+                    "Units": 770.5020141601562,
+                    "Average Selling Price per Unit": 449.64957895358054
+                },
+                "2013": {
+                    "Revenue": 343768.5,
+                    "Units": 702.798583984375,
+                    "Average Selling Price per Unit": 489.14227750869065
+                },
+                "2014": {
+                    "Revenue": 284302.34375,
+                    "Units": 626.6827392578125,
+                    "Average Selling Price per Unit": 453.66231737402325
+                },
+                "2015": {
+                    "Revenue": 134735.90625,
+                    "Units": 336.8966369628906,
+                    "Average Selling Price per Unit": 399.9324762177464
+                },
+                "2016": {
+                    "Revenue": 190760.21875,
+                    "Units": 512.0570678710938,
+                    "Average Selling Price per Unit": 372.5370290133801
+                },
+                "2017": {
+                    "Revenue": 160245.65625,
+                    "Units": 437.122802734375,
+                    "Average Selling Price per Unit": 366.59184844075946
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 2000",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.7 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 286094.1875,
+                    "Units": 525.427734375,
+                    "Average Selling Price per Unit": 544.4976897542552
+                },
+                "2011": {
+                    "Revenue": 413176.0625,
+                    "Units": 753.2721557617188,
+                    "Average Selling Price per Unit": 548.5083436838189
+                },
+                "2012": {
+                    "Revenue": 435590.5625,
+                    "Units": 958.68310546875,
+                    "Average Selling Price per Unit": 454.3634492098587
+                },
+                "2013": {
+                    "Revenue": 405801.4375,
+                    "Units": 868.510498046875,
+                    "Average Selling Price per Unit": 467.23837928565626
+                },
+                "2014": {
+                    "Revenue": 301428.96875,
+                    "Units": 662.0166015625,
+                    "Average Selling Price per Unit": 455.31935005642384
+                },
+                "2015": {
+                    "Revenue": 204261.484375,
+                    "Units": 515.1748657226562,
+                    "Average Selling Price per Unit": 396.4896154017031
+                },
+                "2016": {
+                    "Revenue": 248852.734375,
+                    "Units": 647.0946655273438,
+                    "Average Selling Price per Unit": 384.56928735797845
+                },
+                "2017": {
+                    "Revenue": 247721.9375,
+                    "Units": 687.5802612304688,
+                    "Average Selling Price per Unit": 360.280757706287
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 2000",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.8 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 323418.0625,
+                    "Units": 568.9315795898438,
+                    "Average Selling Price per Unit": 568.4656540478202
+                },
+                "2011": {
+                    "Revenue": 233883.890625,
+                    "Units": 434.5913391113281,
+                    "Average Selling Price per Unit": 538.1697000756074
+                },
+                "2012": {
+                    "Revenue": 332607.875,
+                    "Units": 739.0381469726562,
+                    "Average Selling Price per Unit": 450.0550835737931
+                },
+                "2013": {
+                    "Revenue": 203894.625,
+                    "Units": 440.9994812011719,
+                    "Average Selling Price per Unit": 462.3466323466917
+                },
+                "2014": {
+                    "Revenue": 168645.3125,
+                    "Units": 373.92803955078125,
+                    "Average Selling Price per Unit": 451.010073228534
+                },
+                "2015": {
+                    "Revenue": 61952.28515625,
+                    "Units": 161.34071350097656,
+                    "Average Selling Price per Unit": 383.9842022012318
+                },
+                "2016": {
+                    "Revenue": 88845.9140625,
+                    "Units": 226.15599060058594,
+                    "Average Selling Price per Unit": 392.8523574660056
+                },
+                "2017": {
+                    "Revenue": 123764.359375,
+                    "Units": 350.72869873046875,
+                    "Average Selling Price per Unit": 352.8777651301115
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 2000",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "4.9 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 283747.28125,
+                    "Units": 510.96044921875,
+                    "Average Selling Price per Unit": 555.3214180937974
+                },
+                "2011": {
+                    "Revenue": 270189.875,
+                    "Units": 513.6509399414062,
+                    "Average Selling Price per Unit": 526.0184572636456
+                },
+                "2012": {
+                    "Revenue": 356815.34375,
+                    "Units": 772.1257934570312,
+                    "Average Selling Price per Unit": 462.1207409124803
+                },
+                "2013": {
+                    "Revenue": 353515,
+                    "Units": 731.113037109375,
+                    "Average Selling Price per Unit": 483.52988123109327
+                },
+                "2014": {
+                    "Revenue": 243741.875,
+                    "Units": 536.774169921875,
+                    "Average Selling Price per Unit": 454.0864457681999
+                },
+                "2015": {
+                    "Revenue": 157649.4375,
+                    "Units": 382.25701904296875,
+                    "Average Selling Price per Unit": 412.4173779586738
+                },
+                "2016": {
+                    "Revenue": 155680.03125,
+                    "Units": 415.3100280761719,
+                    "Average Selling Price per Unit": 374.85256970834996
+                },
+                "2017": {
+                    "Revenue": 174627.21875,
+                    "Units": 503.4195556640625,
+                    "Average Selling Price per Unit": 346.88207238919955
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 2000",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "5.0 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 238052.1875,
+                    "Units": 426.1976623535156,
+                    "Average Selling Price per Unit": 558.5487873993646
+                },
+                "2011": {
+                    "Revenue": 196220.1875,
+                    "Units": 380.8594970703125,
+                    "Average Selling Price per Unit": 515.2036092296124
+                },
+                "2012": {
+                    "Revenue": 230559.65625,
+                    "Units": 461.79742431640625,
+                    "Average Selling Price per Unit": 499.2657908200657
+                },
+                "2013": {
+                    "Revenue": 216196.4375,
+                    "Units": 455.6584167480469,
+                    "Average Selling Price per Unit": 474.4704136992696
+                },
+                "2014": {
+                    "Revenue": 168148.59375,
+                    "Units": 386.8939514160156,
+                    "Average Selling Price per Unit": 434.61158577068267
+                },
+                "2015": {
+                    "Revenue": 94326.140625,
+                    "Units": 223.69952392578125,
+                    "Average Selling Price per Unit": 421.6644674500756
+                },
+                "2016": {
+                    "Revenue": 89108.078125,
+                    "Units": 231.4188232421875,
+                    "Average Selling Price per Unit": 385.05112452216315
+                },
+                "2017": {
+                    "Revenue": 115635.765625,
+                    "Units": 329.4194641113281,
+                    "Average Selling Price per Unit": 351.028940979397
+                }
+            }
+        },
+        {
+            "TherapyArea": "Aesthetics",
+            "DeviceSeries": "Breast Implant Devices",
+            "Segment": "Breast Implant - Saline",
+            "Brand": "Style 2000",
+            "Catheter": null,
+            "Diameter": null,
+            "Length": "5.1 cm",
+            "Year": {
+                "2010": {
+                    "Revenue": 348018.09375,
+                    "Units": 598.7487182617188,
+                    "Average Selling Price per Unit": 581.2423194163365
+                },
+                "2011": {
+                    "Revenue": 309264.6875,
+                    "Units": 573.8861083984375,
+                    "Average Selling Price per Unit": 538.8955804542385
+                },
+                "2012": {
+                    "Revenue": 322552.40625,
+                    "Units": 664.4462890625,
+                    "Average Selling Price per Unit": 485.4454175748428
+                },
+                "2013": {
+                    "Revenue": 368834.375,
+                    "Units": 790.0307006835938,
+                    "Average Selling Price per Unit": 466.8608127264635
+                },
+                "2014": {
+                    "Revenue": 296089.59375,
+                    "Units": 660.9989013671875,
+                    "Average Selling Price per Unit": 447.9426412624566
+                },
+                "2015": {
+                    "Revenue": 156742.1875,
+                    "Units": 378.6846008300781,
+                    "Average Selling Price per Unit": 413.9122297458637
+                },
+                "2016": {
+                    "Revenue": 189713.390625,
+                    "Units": 523.8004150390625,
+                    "Average Selling Price per Unit": 362.1864076049884
+                },
+                "2017": {
+                    "Revenue": 205207.875,
+                    "Units": 561.6162719726562,
+                    "Average Selling Price per Unit": 365.38805095374994
+                }
+            }
+        }        
+    ]
+}

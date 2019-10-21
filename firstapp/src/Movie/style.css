@@ -1,0 +1,88 @@
+.header{
+    width: 100%;height: 100px;
+    background-color: blueviolet;
+}
+.container{
+    display: flex;margin-top:50px;
+}
+.movie-card{
+    width: 250px; height: 400px;padding: 10px;
+    border-radius: 10px; box-shadow: 2px 2px 12px 2px darkgray;
+    margin-left: 400px;
+}
+.movie-card-one{
+    width: 250px; height: 400px;padding: 10px;
+    border-radius: 10px; box-shadow: 2px 2px 12px 2px darkgray;
+    margin-left: 40px;
+}
+.movie-card-two{
+    width: 250px; height: 400px;padding: 10px;
+    border-radius: 10px; box-shadow: 2px 2px 12px 2px darkgray;
+    margin-left: 40px;
+}
+img{
+    width:250px; height: 90%;
+}
+label{
+    font-weight: bold;
+    margin-left: 50px; word-spacing: 2em;
+    color:rgb(255, 102, 0);font-size: 15px;
+    text-shadow: 1px 1px  darkgray;
+    border: 1px solid white;
+    box-shadow: 1px 1px 3px 1px darkgrey;
+
+}
+.lab{
+    font-weight: bold;
+    margin-left: 50px; word-spacing: 2em;
+    color:rgb(255, 102, 0);font-size: 15px;
+    text-shadow: 1px 1px  darkgray;
+    border: 1px solid white;
+    box-shadow: 1px 1px 3px 1px darkgrey;
+}
+.lab1{
+    font-weight: bold;
+    margin-left: 10px; 
+    color:rgb(255, 102, 0);font-size: 15px;
+    text-shadow: 1px 1px  darkgray;
+    border: 1px solid white;
+    box-shadow: 1px 1px 3px 1px darkgrey;
+}
+.book{
+    width: 230px;height:50px;text-align: center;
+    margin-top: 60px;margin-left: 7px;
+    font-size: 35px;font-weight: bolder;
+    border: 1px solid rgb(207, 211, 207);
+    box-shadow: 2px 2px 9px 2px rgb(221, 157, 157);
+    border-radius: 15px;color: blue;
+    background-color: aqua;
+
+}
+.book1{
+    width: 230px;height:50px;text-align: center;
+    margin-top: 60px;margin-left: 7px;
+    font-size: 35px;font-weight: bolder;
+    border: 1px solid rgb(207, 211, 207);
+    box-shadow: 2px 2px 9px 2px rgb(221, 157, 157);
+    border-radius: 15px;color: rgb(17, 0, 255);
+    background-color: rgb(255, 196, 0);
+
+}
+.book2{
+    width: 230px;height:50px;text-align: center;
+    margin-top: 60px;margin-left: 7px;
+    font-size: 35px;font-weight: bolder;
+    border: 1px solid rgb(207, 211, 207);
+    box-shadow: 2px 2px 9px 2px rgb(221, 157, 157);
+    border-radius: 15px;color: rgb(68, 0, 255);
+    background-color: rgb(250, 167, 208);
+
+}
+.top-one{
+    margin-top:42%;margin-left: -890px;
+}
+.movie-card1{
+    width: 250px; height: 400px;padding: 10px;
+    border-radius: 10px; box-shadow: 2px 2px 12px 2px darkgray;
+
+}

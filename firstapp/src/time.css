@@ -1,0 +1,10 @@
+
+button{
+    font-size: 8px;color: red;border: 2px solid green;
+    background-color: aqua;
+}
+.border{
+    width: 100px;text-align: center;
+    color: blue;font-size: 15px;
+    border:5px solid sienna;border-radius: 10%;
+}
